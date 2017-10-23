@@ -11,5 +11,15 @@ Update local files to remote file[github] : open gitbash on working folder
 5. git commit -m "Commit message"
 6. git push origin branch name [before that command:  git remote add origin https://github.com/naztestingall/mynewrepository_2017.git
 ]
-7. check github updates
-8. Merge branch update with master file
+7. check github updates : git log
+8. change branch: git checkout branchname
+9. Merge: git merge branchname [first have to switch to the branch where files will move]
+
+
+
+Git wtih bitbuccket learning link
+
+https://confluence.atlassian.com/bitbucket/use-a-git-branch-to-merge-a-file-681902555.html
+
+
+
